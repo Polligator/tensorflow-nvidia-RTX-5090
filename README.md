@@ -22,6 +22,7 @@ python -m pip install tensorflow-2.20.0.dev0+selfbuilt-cp311-cp311-linux_x86_64.
 5 fix AttributeError: 'MessageFactory' object has no attribute 'GetPrototype', `GLIBCXX_3.4.30' not found
 
 python -m pip install protobuf==5.28.3
+
 conda install -c conda-forge libstdcxx-ng
 
 
